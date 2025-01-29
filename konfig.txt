@@ -1,0 +1,3 @@
+na spustenie programu budete potrebovať knižnice matplotlib, numpy a itertools
+
+mestá sa generujú náhodne, keď do konzoly zadáte požadovaný počet miest
